@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suku1980
+- 👋 Hi, I’m @s.samyuktha
 - 👀 I’m interested in Python, Embedded unit testing
 - 🌱 I’m currently learning Unit testing in IAR compiler with Ceedling
 - 💞️ I’m looking to collaborate on Embedded Unit testing and Python
